@@ -1,14 +1,4 @@
-# Koodikoulu
-
-Tervetuloa koodikouluun!
-
----
-
-## Opet
-
-* Jani Kaarela
-* Katja Mankinen
-* Niko Viik
+# Johdatus ohjelmointiin
 
 ---
 
@@ -34,12 +24,12 @@ monimutkaisempia tietorakenteita.
 var nimi = "Aku Ankka";
 ```
 
-Kuten nimi antaa ymmärtää, muuttuja voi muuttua - sen voi asettaa sisältämään jonkin toisen arvon. Muuttujalla ei Javascriptissä ole tiettyä pysyvää tyyppiä, vaan sen arvoksi voidaan esimerkiksi ensin antaa tekstiä ja myöhemmin numero.
+Muuttuja voi tosiaankin muuttua - sen voi asettaa sisältämään jonkin toisen arvon. Muuttujalla ei Javascriptissä ole tiettyä pysyvää tyyppiä, vaan sen arvoksi voidaan esimerkiksi ensin antaa tekstiä ja myöhemmin numero.
 
 ---
 
 Muuttujaa voi ajatella nimilappuna, joka on kiinnitetty narulla arvoon,
-johon haluaa viitata nimellä:
+johon viitataan muuttujan nimellä:
 ![Muuttuja](images/lappu.png)
 
 Lapusta vetämällä saat käsiisi arvon, johon sillä viitataan.
