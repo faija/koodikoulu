@@ -50,6 +50,8 @@ var katti = hauva; // oho?
 
 ![Kissakoira](images/kissakoira_muuttuja.png)
 
+Muuttujan nimellä ei ole ohjelman suorituksen kannalta merkitystä, vaan niiden tarkoitus on helpottaa ohjelman ymmärtämistä (joten muuttujalla "katti" ei kannata viitata koiraan).
+
 ---
 
 ## Operaattorit
