@@ -114,5 +114,4 @@ function plus(eka, toka) {
 
 Funktio "plus" ottaa parametrit "eka" ja "toka", ja palauttaa niiden summan (mikäli ne ovat numeroita) tai liittää ne yhteen (mikäli ne ovat tekstiä).
 
----
 
