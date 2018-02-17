@@ -1,0 +1,27 @@
+{
+  "name": "koodikoulu",
+  "version": "1.0.0",
+  "description": "Johdanto ohjelmointiin",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "http-server -c-1 docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faija/koodikoulu.git"
+  },
+  "keywords": [
+    "koodikoulu"
+  ],
+  "author": "Jani Kaarela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faija/koodikoulu/issues"
+  },
+  "homepage": "https://github.com/faija/koodikoulu#readme",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
